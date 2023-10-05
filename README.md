@@ -1,5 +1,6 @@
 # Muscle Discord Bot
 
+![Alt text]()
 Muscle is a Discord bot built using Python 3 and Discord.py, designed to provide various features for your Discord server.
 
 ## Features
