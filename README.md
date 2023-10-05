@@ -1,6 +1,7 @@
 # Muscle Discord Bot
 
 ![Alt text](https://github.com/divyanshaaa/Kasukabe-defense-group/blob/main/Screenshot%202023-10-05%20at%204.58.12%20PM.png)
+
 Muscle is a Discord bot built using Python 3 and Discord.py, designed to provide various features for your Discord server.
 
 ## Features
