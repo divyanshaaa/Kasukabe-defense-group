@@ -4,9 +4,9 @@ Muscle is a Discord bot built using Python 3 and Discord.py, designed to provide
 
 ## Features
 
-- [x] Greet users with a friendly message.
-- [x] Fetch and display League of Legends standings.
-- [ ] [Add more features here]
+- [x] Gives Computer Performance statistics
+- [x] Helps schedule events
+- [ ] Give rankings accross various games
 
 ## Getting Started
 
